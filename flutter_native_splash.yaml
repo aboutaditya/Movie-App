@@ -1,0 +1,5 @@
+flutter_native_splash:
+  image_path: "movie.png" # The path to your splash screen image
+  color: "42a5f5" # The background color of the splash screen
+  android_gravity: "center" # The gravity of the splash screen on Android
+  ios_content_mode: "scaleAspectFill" # The content mode of the splash screen on iOS
