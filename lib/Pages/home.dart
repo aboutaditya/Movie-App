@@ -76,7 +76,7 @@ class _HomePageState extends State<HomePage> {
         automaticallyImplyLeading: false,
         backgroundColor: Colors.black87,
         title: Text(
-          'QuadB Tech',
+          'Movie App',
           style: TextStyle(color: Colors.redAccent, fontSize: 24),
         ),
       ),
